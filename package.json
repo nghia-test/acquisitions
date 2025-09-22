@@ -14,7 +14,9 @@
     "format:check": "prettier --check .",
     "db:migrate": "drizzle-kit migrate",
     "db:generate": "drizzle-kit generate",
-    "db:studio": "drizzle-kit studio"
+    "db:studio": "drizzle-kit studio",
+    "dev:docker": "sh script/dev.sh",
+    "prod:docker": "sh script/prod.sh"
   },
   "keywords": [],
   "author": "",
