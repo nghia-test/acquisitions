@@ -120,3 +120,168 @@
   service: 'acquisitions-api',
   timestamp: '2025-09-22T07:30:05.077Z'
 }
+{
+  service: 'acquisitions-api',
+  ip: '::1',
+  userAgent: 'PostmanRuntime/7.44.0',
+  path: '/health',
+  level: 'warn',
+  message: 'Bot detected: ',
+  timestamp: '2025-09-22T07:56:49.343Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:07:56:49 +0000] "GET /health HTTP/1.1" 403 46 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:56:49.348Z'
+}
+{
+  service: 'acquisitions-api',
+  ip: '::1',
+  userAgent: 'PostmanRuntime/7.44.0',
+  path: '/health',
+  level: 'warn',
+  message: 'Bot detected: ',
+  timestamp: '2025-09-22T07:57:53.309Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:07:57:53 +0000] "GET /health HTTP/1.1" 403 46 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:57:53.310Z'
+}
+{
+  service: 'acquisitions-api',
+  ip: '::1',
+  userAgent: 'PostmanRuntime/7.44.0',
+  path: '/health',
+  level: 'warn',
+  message: 'Bot detected: ',
+  timestamp: '2025-09-22T07:57:54.758Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:07:57:54 +0000] "GET /health HTTP/1.1" 403 46 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:57:54.759Z'
+}
+{
+  service: 'acquisitions-api',
+  ip: '::1',
+  userAgent: 'PostmanRuntime/7.44.0',
+  path: '/health',
+  level: 'warn',
+  message: 'Bot detected: ',
+  timestamp: '2025-09-22T08:00:08.745Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:00:08 +0000] "GET /health HTTP/1.1" 403 46 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:00:08.751Z'
+}
+{
+  service: 'acquisitions-api',
+  ip: '::1',
+  userAgent: 'PostmanRuntime/7.44.0',
+  path: '/health',
+  level: 'warn',
+  message: 'Bot detected: ',
+  timestamp: '2025-09-22T08:01:45.078Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:01:45 +0000] "GET /health HTTP/1.1" 403 46 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:01:45.084Z'
+}
+{
+  service: 'acquisitions-api',
+  ip: '::1',
+  userAgent: 'PostmanRuntime/7.44.0',
+  path: '/health',
+  level: 'warn',
+  message: 'Bot detected: ',
+  timestamp: '2025-09-22T08:08:06.900Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:08:06 +0000] "GET /health HTTP/1.1" 403 46 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:08:06.905Z'
+}
+{
+  service: 'acquisitions-api',
+  ip: '::1',
+  userAgent: 'PostmanRuntime/7.44.0',
+  path: '/health',
+  level: 'warn',
+  message: 'Bot detected: ',
+  timestamp: '2025-09-22T08:08:19.315Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:08:19 +0000] "GET /health HTTP/1.1" 403 46 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:08:19.319Z'
+}
+{
+  service: 'acquisitions-api',
+  ip: '::1',
+  userAgent: 'PostmanRuntime/7.44.0',
+  path: '/health',
+  level: 'warn',
+  message: 'Bot detected: ',
+  timestamp: '2025-09-22T08:09:37.677Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:09:37 +0000] "GET /health HTTP/1.1" 403 46 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:09:37.681Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:11:17 +0000] "GET /health HTTP/1.1" 200 75 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:11:17.884Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:11:28 +0000] "GET /health HTTP/1.1" 200 75 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:11:28.571Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:11:29 +0000] "GET /health HTTP/1.1" 200 76 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:11:29.496Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:11:30 +0000] "GET /health HTTP/1.1" 200 76 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:11:30.248Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:11:30 +0000] "GET /health HTTP/1.1" 200 76 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:11:30.985Z'
+}
+{
+  service: 'acquisitions-api',
+  ip: '::1',
+  userAgent: 'PostmanRuntime/7.44.0',
+  path: '/health',
+  level: 'warn',
+  message: 'Rate limit exceeded: ',
+  timestamp: '2025-09-22T08:11:31.744Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:08:11:31 +0000] "GET /health HTTP/1.1" 403 53 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T08:11:31.746Z'
+}
