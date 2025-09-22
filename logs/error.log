@@ -1,0 +1,20 @@
+{
+  service: 'acquisitions-api',
+  level: 'error',
+  message: 'Create user error User with this email already exists',
+  stack: 'Error: User with this email already exists\n' +
+    '    at createUser (file:///Users/nghia.bui/Desktop/test/devops/acquisitions/src/services/auth.service.js:25:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async signupController (file:///Users/nghia.bui/Desktop/test/devops/acquisitions/src/controllers/auth.controller.js:21:18)',
+  timestamp: '2025-09-22T07:08:54.749Z'
+}
+{
+  service: 'acquisitions-api',
+  level: 'error',
+  message: 'Signup error User with this email already exists',
+  stack: 'Error: User with this email already exists\n' +
+    '    at createUser (file:///Users/nghia.bui/Desktop/test/devops/acquisitions/src/services/auth.service.js:25:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async signupController (file:///Users/nghia.bui/Desktop/test/devops/acquisitions/src/controllers/auth.controller.js:21:18)',
+  timestamp: '2025-09-22T07:08:54.750Z'
+}

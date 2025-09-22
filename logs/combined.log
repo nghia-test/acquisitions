@@ -1,0 +1,122 @@
+{
+  message: 'Hello from acquisitions',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T02:33:56.378Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:02:33:56 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T02:33:56.388Z'
+}
+{
+  message: 'Hello from acquisitions',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T04:34:59.588Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:04:34:59 +0000] "GET / HTTP/1.1" 200 12 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T04:34:59.596Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:04:35:05 +0000] "GET /health HTTP/1.1" 200 77 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T04:35:05.609Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:04:35:15 +0000] "GET /api HTTP/1.1" 200 44 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T04:35:15.683Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:04:35:29 +0000] "GET /api/auth HTTP/1.1" 404 147 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T04:35:29.796Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:07:06:38 +0000] "POST /api/auth HTTP/1.1" 404 148 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:06:38.512Z'
+}
+{
+  message: 'User created successfully: nghia@abc.com',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:07:02.229Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:07:07:02 +0000] "POST /api/auth/sign-up HTTP/1.1" 201 109 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:07:02.232Z'
+}
+{
+  service: 'acquisitions-api',
+  level: 'error',
+  message: 'Create user error User with this email already exists',
+  stack: 'Error: User with this email already exists\n' +
+    '    at createUser (file:///Users/nghia.bui/Desktop/test/devops/acquisitions/src/services/auth.service.js:25:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async signupController (file:///Users/nghia.bui/Desktop/test/devops/acquisitions/src/controllers/auth.controller.js:21:18)',
+  timestamp: '2025-09-22T07:08:54.749Z'
+}
+{
+  service: 'acquisitions-api',
+  level: 'error',
+  message: 'Signup error User with this email already exists',
+  stack: 'Error: User with this email already exists\n' +
+    '    at createUser (file:///Users/nghia.bui/Desktop/test/devops/acquisitions/src/services/auth.service.js:25:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async signupController (file:///Users/nghia.bui/Desktop/test/devops/acquisitions/src/controllers/auth.controller.js:21:18)',
+  timestamp: '2025-09-22T07:08:54.750Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:07:08:54 +0000] "POST /api/auth/sign-up HTTP/1.1" 409 32 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:08:54.752Z'
+}
+{
+  message: 'User created successfully: nghia2@abc.com',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:09:04.113Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:07:09:04 +0000] "POST /api/auth/sign-up HTTP/1.1" 201 110 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:09:04.115Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:07:28:07 +0000] "POST /api/auth/sign-in HTTP/1.1" 400 58 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:28:07.551Z'
+}
+{
+  message: 'User authenticated successfully: nghia@abc.com',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:29:17.881Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:07:29:17 +0000] "POST /api/auth/sign-in HTTP/1.1" 200 106 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:29:17.883Z'
+}
+{
+  message: '::1 - - [22/Sep/2025:07:30:05 +0000] "POST /api/auth/sign-out HTTP/1.1" 200 37 "-" "PostmanRuntime/7.44.0"\n',
+  level: 'info',
+  service: 'acquisitions-api',
+  timestamp: '2025-09-22T07:30:05.077Z'
+}
